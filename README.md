@@ -1,2 +1,4 @@
 # Online-Banking-System
-hello
+The Bank Management System (GUI) is a Java-based desktop application designed to simplify and automate basic banking operations. Developed using Java Swing, this project provides an interactive graphical interface where users can perform essential tasks such as account creation, deposits, withdrawals, balance inquiries, and transaction management. It aims to replace manual banking processes with a user-friendly and efficient system that ensures data accuracy and quick processing.
+
+The project integrates object-oriented programming principles for clear structure and code reusability, while the GUI enhances user experience by offering intuitive navigation and real-time feedback. This system can be extended with features like database connectivity (using MySQL) for persistent data storage, making it suitable for both academic learning and small-scale financial management applications.
